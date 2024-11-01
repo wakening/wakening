@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="./xuebao01.jpg" alt="芝士雪豹" width="50%">
+![芝士雪豹](images/xuebao03.jpg)
+<!--<img src="images/xuebao03.jpg" alt="芝士雪豹" width="50%">-->
 
