@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![芝士雪豹](./xuebao01.jpg)
+<img src="./xuebao01.jpg" alt="芝士雪豹" width="50%">
+
