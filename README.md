@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="text-align: center;">
 <!--![芝士雪豹](images/xuebao03.jpg)-->
 <img src="images/xuebao03.jpg" alt="芝士雪豹" width="90%">
-
+</div>
